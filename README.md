@@ -1,5 +1,5 @@
 # Coding Kit
-Kit design for teaching programming, computer science, and electronics.
+Kit designed for teaching programming, computer science, and electronics.
 
 [Buy on Amazon](https://a.co/g7EsZV0)
 
