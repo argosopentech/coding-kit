@@ -1,6 +1,8 @@
 # Coding Kit
 Kit design for teaching programming, computer science, and electronics.
 
+[Buy on Amazon](https://a.co/g7EsZV0)
+
 ## Computer
 #### [Raspberry Pi kit](https://www.amazon.com/CanaKit-Raspberry-Premium-Clear-Supply/dp/B07BC7BMHY/)
 
@@ -22,4 +24,6 @@ Best for children and absolute beginners.
 Beginners intro to Python.
 
 ## [Electronics](https://www.amazon.com/Freenove-Raspberry-Processing-Tutorials-Components/dp/B06W54L7B5/) (optional)
+
+
 
